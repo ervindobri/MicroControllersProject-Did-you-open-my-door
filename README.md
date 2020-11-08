@@ -1,2 +1,2 @@
-# did_you_open_my_door
+# Close The Door
 Checking door status (open/closed) with an ultrasonic distance measuring sensor.
