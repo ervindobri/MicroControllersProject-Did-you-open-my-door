@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531846241373",
+    "firebase_url": "https://doorstatus-13c5f.firebaseio.com",
+    "project_id": "doorstatus-13c5f",
+    "storage_bucket": "doorstatus-13c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531846241373:android:d1eb8a69aec9b98d3b81b4",
+        "android_client_info": {
+          "package_name": "com.winterprod.did_you_open_my_door"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531846241373-vk16e036l7524ltofn4t65ms4fjdml12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-FRbjcyIRs6OcDoIv5E3-FvD-cx4RDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531846241373-vk16e036l7524ltofn4t65ms4fjdml12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
