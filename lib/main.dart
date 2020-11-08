@@ -41,7 +41,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   DatabaseReference doorDataReference;
-  DatabaseError _error;
 
   bool sensorStatus = false;
   double sensorValue = 0.0;
@@ -177,7 +176,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       "${sensorValue.toStringAsFixed(2)} CM",
                                     style: GoogleFonts.roboto(
                                       color: Colors.teal,
-                                        fontSize: 31,
+                                        fontSize: 30,
                                         fontWeight: FontWeight.w200
                                     ),
                                   ),
